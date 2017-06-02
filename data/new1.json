@@ -1,0 +1,23 @@
+{
+
+	 "news" : [
+{
+
+"titulo":"Las distros Linux no funcionarán en Windows 10 S",
+"descripcion":"Microsoft ha confirmado que las distros Linux no funcionarán en Windows 10 S, una mala noticia que confirma que no todas las aplicaciones UWP podrán ser ejecutadas en dicha versión del conocido sistema operativo del gigante de Redmond.",
+"fecha":"01/06/2017 18:30"
+},
+{
+"titulo":"Aquí tienes el nuevo Surface Pro",
+"descripcion":"Microsoft celebrará un evento en Shanghai el 23 de mayo donde se espera la presentación del nuevo Surface Pro. Venturebeat dice que tiene fotografías exclusivas de un modelo que llegará como renovación del Surface Pro 4.",
+"fecha":"01/06/2017 18:30"
+},
+{
+
+"titulo":"Nuevo tráiler de La Tierra Media: Sombras de Guerra",
+"descripcion":"Warner Bros España ha publicado un nuevo tráiler de La Tierra Media: Sombras de Guerra, uno de los juegos más esperados de este año que rescatará el planteamiento base que vimos en la primera entrega.",
+"fecha":"01/06/2017 18:30"
+}
+]
+
+}

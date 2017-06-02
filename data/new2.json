@@ -1,0 +1,24 @@
+{
+
+	 "news" : [
+{
+
+"titulo":"Guía: Las mejores tarjetas gráficas del mercado (Abril 2017)",
+"descripcion":"Hemos actualizado nuestra guía con las mejores tarjetas gráficas añadiendo algunos modelos que han bajado de precio. Hay movimientos en las tres gamas y entre ellos destacan la RX 460 de Sapphire con 4 GB de GDDR5 por menos de 130 euros, la GTX 1060 de EVGA por menos de 270 euros y la GTX 1080 de MSI por menos de 670 euros.",
+"fecha":"31/05/2017 10:00"
+},
+{
+
+"titulo":"AMD responderá a Volta de NVIDIA con Vega de segunda generación",
+"descripcion":"El gigante de Sunnyvale habló durante su conferencia con los analistas de sus planes a corto, medio y largo plazo, una decisión inteligente que nos permitió conocer que AMD tiene en boxes a Vega de segunda generación, una solución gráfica que estará basada en el proceso de fabricación de 14 nm+.",
+"fecha":"31/05/2017 10:00"
+},
+{
+
+"titulo":"WannaKey ayuda a hacer frente a las infecciones producidas por WannaCry",
+"descripcion":"El ransomware WannaCry ha dado un duro golpe a muchas empresas y entes públicos a nivel internacional, aunque afortunadamente los expertos de seguridad han trabajado a ritmo acelerado y ya han empezado a encontrar soluciones como WannaKey, que ayudan a superar la infección sin tener que pasar por caja.",
+"fecha":"31/05/2017 10:00"
+}
+]
+
+}
